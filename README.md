@@ -1,107 +1,32 @@
-# FUTURE_DS_01
-Future Interns 
-# Business Sales Performance Analysis (Online Retail Dataset)
-
+## Future Interns Task 1
 ## Project Overview
+This is my submission for Future Interns Task 1.
+The project consists of a fully interactive Power BI report designed to demonstrate data visualization, dashboard design, and reporting best practices.
+Files Included:
 
-This project focuses on analyzing real-world e-commerce transaction data to uncover insights that can help a business improve its sales performance and decision-making.
-The analysis was conducted using the **Online Retail Dataset**, which contains transactional data including products, quantities, prices, customers, and countries.
-The main objective is to identify:
+1. Future interns task 1.pbix – Main Power BI report file (3.43 MB)
+2. Screen recording – Video walkthrough showing the report’s functionality and interactions
 
-* Revenue trends over time
-* Top-performing products
-* High-value customers
-* Key regions contributing to revenue
+## How to Use
 
-## Objectives
+1. Open Future interns task 1.pbix using Power BI Desktop (latest version recommended).
+2. Watch the screen recording first to understand the intended navigation, interactions, and key features.
+3. Explore the report interactively using slicers, filters, drill-throughs, and cross-highlighting.
 
-* Analyze sales data to understand business performance
-* Identify products generating the most revenue
-* Examine sales trends over time
-* Discover top-performing countries/regions
-* Provide actionable business recommendations
+## Key Features
 
-## Tools & Technologies
+1. Modern and professional design using the CY26SU02 custom theme
+2. High-quality visuals with consistent formatting and branding
+3. Interactive elements including slicers, buttons, and cross-filtering
+4. Clean layout optimized for desktop viewing
+5. Both light and dark theme support
 
-* **Microsoft Excel**
+## Technical Details
+1. Tool: Power BI Desktop
+2. Visual Types: Bar/Column charts, Line charts, Combo charts, KPI cards, Slicers, Tables/Matrix, etc.
 
-  * Data Cleaning
-  * Pivot Tables
-  * Data Visualization (Charts & Dashboard)
-
-
-## Data Cleaning & Preparation
-
-The dataset was cleaned and prepared before analysis:
-
-* Removed rows with missing Customer IDs
-* Filtered out negative quantities (product returns)
-* Removed records with zero unit price
-* Created a new column:
-  **Revenue = Quantity × UnitPrice**
-* Formatted date columns for time-based analysis
-
-## Key Analysis Performed
-
-### 1. Revenue Trend Over Time
-
-* Monthly revenue was analyzed to identify growth patterns and seasonality
-
-### 2. Top-Selling Products
-
-* Products were ranked based on total revenue generated
-
-### 3. Revenue by Country
-
-* Sales performance was compared across different countries
-
-### 4. Customer Analysis
-* Identified high-value customers based on total spending
-
-### 5. Product Demand
-* Analyzed product quantities to determine frequently purchased items
-
-**Key Insights**
-
-* A small number of products contribute significantly to total revenue
-* Revenue trends show fluctuations, indicating seasonal demand patterns
-* The majority of sales come from a few key countries
-* Some products have high sales volume but low revenue contribution
-* A small group of customers generates a large portion of total revenue
-
-**Business Recommendations**
-
-* Focus marketing efforts on top-performing products to maximize revenue
-* Expand operations or marketing in high-performing countries
-* Optimize pricing strategies for low-revenue products
-* Target high-value customers with loyalty programs
-* Prepare inventory for peak sales periods based on trends
-
-**Dashboard**
-The Excel dashboard includes:
-* Total Revenue, Orders, and Customers KPIs
-* Revenue trend over time (Line Chart)
-* Top 10 Products (Bar Chart)
-* Revenue by Country
-* Customer spending analysis
-
-**Project Structure**
-Business-Sales-Analysis
- Dashboard.xlsx
- README.md
- dataset
-
-**How to Use**
-1. Download the repository
-2. Open the Excel dashboard file
-3. Explore the pivot tables and charts
-4. Interact with filters (if applied) to explore insights
-   
-**Author**
-Lungisani Hadebe
-Aspiring Data Analyst | Excel | Data Analytics
-
-## Acknowledgment
-
-Dataset sourced from Kaggle (Online Retail Dataset)
-
+## Purpose
+This task showcases my ability to:
+1. Build a complete, user-friendly business intelligence dashboard
+2. Apply strong design and UX principles in Power BI
+3. Create an interactive and visually appealing report
