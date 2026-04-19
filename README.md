@@ -7,6 +7,10 @@ Files Included:
 1. Future interns task 1.pbix – Main Power BI report file (3.43 MB)
 2. Screen recording – Video walkthrough showing the report’s functionality and interactions
 
+## Dataset
+**Online Retail Dataset**  
+→ [Download / View Dataset](https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset)
+
 ## How to Use
 
 1. Open Future interns task 1.pbix using Power BI Desktop (latest version recommended).
